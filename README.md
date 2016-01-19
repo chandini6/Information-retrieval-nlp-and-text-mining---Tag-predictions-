@@ -1,4 +1,4 @@
-# Informationretrieval, nlp and textmining techiniques :  Multilabel classifications model
+# Informationretrieval, nlp and textmining techiniques   Multilabel classifications model
 
 
 Tags predictions for stackoverflow data set
